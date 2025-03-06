@@ -2,3 +2,8 @@
 
 
 主程序为hello.py
+
+
+使用的原始数据集为：
+
+ https://huggingface.co/datasets/MLZoo/DPO-bad-boy-chinese-for-Qwen2.5/tree/main 
