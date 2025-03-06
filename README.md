@@ -1,0 +1,4 @@
+本项目是将csv的qwen格式的SFT数据，用python转换到百度SFT所需要的JSONL格式的工程
+
+
+主程序为hello.py
